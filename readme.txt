@@ -1,0 +1,1 @@
+https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/
